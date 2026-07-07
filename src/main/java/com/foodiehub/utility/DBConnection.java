@@ -12,7 +12,7 @@ public class DBConnection {
 
     private static final String USERNAME = "root";
 
-    private static final String PASSWORD = "root@123";
+    private static final String PASSWORD = "your_db_password_here";
 
     public static Connection getConnection() {
 
