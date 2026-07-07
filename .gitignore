@@ -1,0 +1,16 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build output
+build/
+bin/
+target/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
